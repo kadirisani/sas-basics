@@ -1,0 +1,24 @@
+{
+  "name": "sas-basics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kadirisani/sas-basics.git"
+  },
+  "keywords": [
+    "sas",
+    "Node",
+    "Express"
+  ],
+  "author": "ramesh k",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kadirisani/sas-basics/issues"
+  },
+  "homepage": "https://github.com/kadirisani/sas-basics#readme"
+}
